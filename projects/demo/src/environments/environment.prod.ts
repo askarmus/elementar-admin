@@ -1,10 +1,5 @@
 export const environment = {
-  siteUrl: 'https://demo.elementarui.com',
-  googleAnalyticsId: 'G-LZYWG6MYJ4',
-  pageTitle: 'Elementar Admin',
-  pageMeta: {
-    keywords: [],
-    description: '',
-    author: ''
-  }
+  siteUrl: 'http://localhost:4200',
+  googleAnalyticsId: '',
+  pageTitle: 'Elementar Admin'
 };
